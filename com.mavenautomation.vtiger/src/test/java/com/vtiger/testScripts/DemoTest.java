@@ -7,7 +7,7 @@ public class DemoTest {
 	@Test
 	public void checkGit()
 	{
-		System.out.println("Checking git upload");
+		System.out.println("Checking git upload new");
 	}
 
 }
