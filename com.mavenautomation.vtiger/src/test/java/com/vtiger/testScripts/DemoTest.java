@@ -8,5 +8,6 @@ public class DemoTest {
 	public void checkGit()
 	{
 		System.out.println("Checking git final commit");
+		System.out.println("Checking git pull Request");
 	}
 }
