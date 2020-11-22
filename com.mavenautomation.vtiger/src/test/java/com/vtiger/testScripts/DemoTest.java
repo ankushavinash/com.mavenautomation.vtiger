@@ -7,6 +7,6 @@ public class DemoTest {
 	@Test
 	public void checkGit()
 	{
-		System.out.println("Checking git 5rd commit");
+		System.out.println("Checking git final commit");
 	}
 }
